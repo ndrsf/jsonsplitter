@@ -1,0 +1,6 @@
+# Project exclude paths
+/jar/target/
+/.idea/
+/jsonsplitter.iml
+/jar/jsonsplitter-jar.iml
+/jlink/jsonsplitter-jlinked.iml
